@@ -1,7 +1,7 @@
-# Vinted Scraper with Telegram Alerts
+# Vinted Scraper with Telegram group
 
 ## Description
-This script scrapes **Vinted** for new items matching specific search criteria, stores the results, and sends notifications to a **Telegram** channel. The script also uses **PIA VPN** to rotate IPs, ensuring uninterrupted access to the site.
+This script scrapes **Vinted** for new items matching specific search criteria, stores the results, and sends notifications to a **Telegram** group. The script also uses **PIA VPN** to rotate IPs, ensuring uninterrupted access to the site.
 
 ## Features
 - **Scrapes Vinted** for new items based on predefined filters.
